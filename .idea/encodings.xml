@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example1/Adaptee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example1/Adapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example1/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example1/Target.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example2/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example2/LogFileOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example2/LogFileOperateApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example2/LogModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example3/Adapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example3/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example3/LogDbOperateApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example3/LogFileOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example3/LogFileOperateApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/adapter/example3/LogModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example1/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example1/ExportDB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example1/ExportFileApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example1/ExportOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example1/ExportTxtFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example2/ConcreteCreator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example2/ConcreteProduct.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example2/Creator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example2/Product.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportDB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportDBOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportFileApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportTxtFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportTxtFileOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example1/AppConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example1/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example10/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example11/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example12/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example2/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example3/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example4/AppConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example4/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example5/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example6/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example7/JavaCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example8/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example9/OneExtend.java" charset="GBK" />
+  </component>
+</project>

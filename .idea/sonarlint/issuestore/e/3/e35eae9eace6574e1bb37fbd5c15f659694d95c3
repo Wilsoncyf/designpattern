@@ -1,0 +1,13 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ˆèŒ¬8Ù¯†…Ã.
+p
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(æğìúÿÿÿÿ8ñ±…Ã.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÁÜ…´8Ù€“…Ã.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¾Âßæ8àêµ…Ã.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¸‰¸éúÿÿÿÿ8àêµ…Ã.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ë‚šÖûÿÿÿÿ8àêµ…Ã.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¤‡â¹øÿÿÿÿ8àêµ…Ã.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(éñƒÕùÿÿÿÿ8àêµ…Ã.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ã¤„Ï8àêµ…Ã.
