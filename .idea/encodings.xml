@@ -31,6 +31,7 @@
     <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportOperate.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportTxtFile.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example3/ExportTxtFileOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/javass/dp/factorymethod/example4/Creator.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example1/AppConfig.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example1/Client.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/javass/dp/singleton/example10/Singleton.java" charset="GBK" />

@@ -26,7 +26,7 @@ public class AppConfig {
 	 */
 	public AppConfig(){
 		//调用读取配置文件的方法
-		getProperties();
+		readConfig();
 	}
 	/**
 	 * 读取配置文件，把配置文件中的内容读出来设置到属性上
@@ -51,65 +51,5 @@ public class AppConfig {
 			}
 		}
 	}
-
-
-
-
-
-
-
-	public void getProperties(){
-		Properties properties = new Properties();
-		InputStream in = null;
-		try {
-			in = AppConfig.class.getResourceAsStream("AppConfig.properties");
-			properties.load(in);
-			this.parameterA = properties.getProperty("paramA");
-			this.parameterB = properties.getProperty("paramB");
-		} catch (IOException e) {
-			System.out.println("装载配置文件出错了，具体堆栈信息如下：");
-			e.printStackTrace();
-		}finally {
-			try {
-				in.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-
-	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 }

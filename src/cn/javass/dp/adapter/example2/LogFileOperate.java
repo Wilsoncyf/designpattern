@@ -18,21 +18,11 @@ public class LogFileOperate implements LogFileOperateApi{
 	public LogFileOperate(String logFilePathName) {
 		//先判断是否传入了文件的路径和名称，如果是，
 		//就重新设置操作的日志文件的路径和名称
-		setLogFilePathName(logFilePathName);
-	}
-
-	private String setLogFilePathName(String logFilePathName) {
-		if (Objects.nonNull(logFilePathName) && logFilePathName.trim().length() > 0) {
+		if(logFilePathName!=null && logFilePathName.trim().length()>0){
 			this.logFilePathName = logFilePathName;
 		}
-		return this.logFilePathName;
 	}
-
 	public  List<LogModel> readLogFile() {
-		return getLogModels();
-	}
-
-	private List<LogModel> getLogModels() {
 		List<LogModel> list = null;
 		ObjectInputStream oin = null;
 		try {

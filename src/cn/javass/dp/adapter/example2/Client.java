@@ -13,17 +13,12 @@ public class Client {
 		list.add(lm1);
 
 		//创建操作日志文件的对象
-		LogFileOperateApi api = new LogFileOperate("");
-//		//保存日志文件
-//		api.writeLogFile(list);
-		Adapter adapter = new Adapter(api);
-		adapter.createLog(lm1);
-
-		List<LogModel> allLog = adapter.getAllLog();
-		System.out.println("alllog = " + allLog);
-
-//		//读取日志文件的内容
-//		List<LogModel> readLog = api.readLogFile();
-//		System.out.println("readLog="+readLog);
+		LogFileOperateApi api = new LogFileOperate(""); 
+		//保存日志文件
+		api.writeLogFile(list);
+		
+		//读取日志文件的内容
+		List<LogModel> readLog = api.readLogFile();
+		System.out.println("readLog="+readLog);
 	}
 }
